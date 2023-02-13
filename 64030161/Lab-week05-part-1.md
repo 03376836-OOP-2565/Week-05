@@ -191,8 +191,16 @@ __หมายเหตุ__
 
 13.decimal
 
+![image](https://user-images.githubusercontent.com/115066261/218508435-f189326b-35af-4f73-9cf6-8871119ae837.png)
+
 14.object
+
+![image](https://user-images.githubusercontent.com/115066261/218509029-ab5a0657-623c-47da-a577-27fbc7d70c78.png)
 
 15.string
 
+![image](https://user-images.githubusercontent.com/115066261/218509559-132bd1b9-400b-42fe-893d-193df074c009.png)
+
 16.dynamic
+
+-
