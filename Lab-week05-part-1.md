@@ -142,31 +142,46 @@ __หมายเหตุ__
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
 1.SByte
+![ภาพ](https://user-images.githubusercontent.com/112167732/220829614-3e55915c-f424-4dc3-942d-23f0093269d0.png)
 
 2.Byte
+![ภาพ](https://user-images.githubusercontent.com/112167732/220829690-53f2ba51-9486-47fc-bb9a-59c2c7370eec.png)
 
 3.short
+![ภาพ](https://user-images.githubusercontent.com/112167732/220829779-a698697c-6e02-4f5b-83d3-b5ccbe9461a3.png)
 
 4.ushort
+![ภาพ](https://user-images.githubusercontent.com/112167732/220830023-28b0ff6f-23fc-4d1d-ad64-d48818a8d1b3.png)
 
 5.int
+![ภาพ](https://user-images.githubusercontent.com/112167732/220830090-8a86b91b-9d60-46c7-9fdd-4b88cd774a1f.png)
 
 6.uint
+![ภาพ](https://user-images.githubusercontent.com/112167732/220830159-5514ac69-ea2d-456d-8a8b-dd11b5493b1d.png)
 
 7.long
+![ภาพ](https://user-images.githubusercontent.com/112167732/220831118-3b485e99-7493-4446-ae8b-34ebeb822a4b.png)
 
 8.ulong
+![ภาพ](https://user-images.githubusercontent.com/112167732/220831198-8d4397ef-047b-4da5-a0e4-73bee6557dcd.png)
 
 9.float
+![ภาพ](https://user-images.githubusercontent.com/112167732/220831290-9b96da6d-39a9-421b-bf2a-0aee218b3a11.png)
 
 10.Double
+![ภาพ](https://user-images.githubusercontent.com/112167732/220831346-0b6a3eef-23b5-4615-9523-b072df477ad8.png)
 
 11.Bool
+![ภาพ](https://user-images.githubusercontent.com/112167732/220831404-4aa60207-5c57-4a74-a2ec-35f42ce593c5.png)
 
 12.char
+![ภาพ](https://user-images.githubusercontent.com/112167732/220831472-a0845c5e-4f3a-4a9b-a87d-d3515befe3fe.png)
 
 13.Decimal
+![ภาพ](https://user-images.githubusercontent.com/112167732/220831591-cc6994ed-e464-4475-b20e-91a9b8647706.png)
 
 14.object
+![ภาพ](https://user-images.githubusercontent.com/112167732/220831636-96d0ed5b-db4d-4a45-b936-76dbd875ea93.png)
 
 15.String
+![ภาพ](https://user-images.githubusercontent.com/112167732/220831714-1439bbdc-7b02-4132-8d06-81d24d8c9014.png)
