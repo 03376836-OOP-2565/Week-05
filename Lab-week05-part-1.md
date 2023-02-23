@@ -141,3 +141,32 @@ __หมายเหตุ__
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
+1.SByte
+
+2.Byte
+
+3.short
+
+4.ushort
+
+5.int
+
+6.uint
+
+7.long
+
+8.ulong
+
+9.float
+
+10.Double
+
+11.Bool
+
+12.char
+
+13.Decimal
+
+14.object
+
+15.String

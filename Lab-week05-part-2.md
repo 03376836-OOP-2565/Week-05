@@ -10,6 +10,7 @@
 
 แก้ไขโค้ดตัวอย่าง ให้รายงานรายละเอียดของ predefine type ได้ครบถ้วน
 
+
 Type ใดที่ไม่มี properties ที่กำหนดให้แสดงก็ให้เว้นไว้ หรือใช้การขีด (`-`)
 ```cs
 sbyte sb = new sbyte();  // create new object
