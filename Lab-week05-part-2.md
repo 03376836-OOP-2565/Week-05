@@ -48,3 +48,5 @@ Console.WriteLine("=============================================================
 ```
 
 ![](./Pictures/Lab5_2_Pic1.png)
+
+![ภาพ](https://user-images.githubusercontent.com/112167732/221589057-5ded7c78-0c05-4970-9e28-f9b195dc63bd.png)
