@@ -10,6 +10,7 @@
 
 แก้ไขโค้ดตัวอย่าง ให้รายงานรายละเอียดของ predefine type ได้ครบถ้วน
 
+
 Type ใดที่ไม่มี properties ที่กำหนดให้แสดงก็ให้เว้นไว้ หรือใช้การขีด (`-`)
 ```cs
 sbyte sb = new sbyte();  // create new object
@@ -47,3 +48,5 @@ Console.WriteLine("=============================================================
 ```
 
 ![](./Pictures/Lab5_2_Pic1.png)
+
+![ภาพ](https://user-images.githubusercontent.com/112167732/221589057-5ded7c78-0c05-4970-9e28-f9b195dc63bd.png)
