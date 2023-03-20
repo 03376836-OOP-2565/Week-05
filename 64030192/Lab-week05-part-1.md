@@ -139,5 +139,50 @@ __หมายเหตุ__
 
 ## แบบฝึกหัด ##
 
-เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
+เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด<br>
+1.Byte<br>
+![image](https://user-images.githubusercontent.com/115066298/226383173-fbcf6987-0a99-40d2-8230-89fcdc05c7ea.png)
 
+2.short(Int16)<br>
+![image](https://user-images.githubusercontent.com/115066298/226384862-c9647a49-df60-4889-8c1e-76b1231698e2.png)
+
+3.short(Uint16)<br>
+![image](https://user-images.githubusercontent.com/115066298/226385073-46a1e906-d539-499c-8b7d-2ea0c3b7108d.png)
+
+4.int(Int32)<br>
+![image](https://user-images.githubusercontent.com/115066298/226385187-c13669e4-815f-4eae-8ace-c5ac5fde7c8d.png)
+
+5.uint(Uint32)<br>
+![image](https://user-images.githubusercontent.com/115066298/226385305-28b8bbae-686a-4c81-a04b-cce6f3ec91d4.png)
+
+6.long(Int64)<br>
+![image](https://user-images.githubusercontent.com/115066298/226385398-04a239ad-1677-464b-b9c4-d6aa4197db15.png)
+
+7.ulong(Uint64)<br>
+![image](https://user-images.githubusercontent.com/115066298/226385510-c82e4e65-df1a-44c7-94f5-83922706a735.png)
+
+8.float(Single)<br>
+![image](https://user-images.githubusercontent.com/115066298/226385646-073ce491-6285-45cf-908a-4c0d48ec40bc.png)
+
+9.double<br>
+![image](https://user-images.githubusercontent.com/115066298/226385798-10f3135a-44ec-43b9-b56a-52d892a41388.png)
+
+10.bool<br>
+![image](https://user-images.githubusercontent.com/115066298/226385899-49c9ea89-dcd3-43ac-afa4-0d7a0839f00f.png)
+
+11.char<br>
+![image](https://user-images.githubusercontent.com/115066298/226386000-712a1c5c-2af6-40e6-b0bf-9a21fc03d071.png)
+
+12.decimal<br>
+![image](https://user-images.githubusercontent.com/115066298/226386106-953c913e-c482-4b1b-9d89-53ef4fef4c2d.png)
+![image](https://user-images.githubusercontent.com/115066298/226386178-c738d673-7f35-4db5-a1fa-06545b2d9619.png)
+![image](https://user-images.githubusercontent.com/115066298/226386235-2a69d66d-d629-4e3a-a185-027ff9e23932.png)
+
+13.Object<br>
+![image](https://user-images.githubusercontent.com/115066298/226386365-11f4ab97-236d-4e40-acda-64491267a0ae.png)
+
+14.string<br>
+![image](https://user-images.githubusercontent.com/115066298/226386449-4caa11fa-add7-4b0b-af0c-2c19e32c7379.png)
+![image](https://user-images.githubusercontent.com/115066298/226386489-28d36837-ecf1-4c14-8073-7a6f9d717b5d.png)
+![image](https://user-images.githubusercontent.com/115066298/226386569-b13a2bb5-a82b-47bf-bd9f-34fe41942d84.png)
+![image](https://user-images.githubusercontent.com/115066298/226386669-e55479d2-4d00-45f6-8cb0-c4cddba29b85.png)
