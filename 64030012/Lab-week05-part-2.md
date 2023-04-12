@@ -47,3 +47,11 @@ Console.WriteLine("=============================================================
 ```
 
 ![](./Pictures/Lab5_2_Pic1.png)
+
+![Screenshot 2023-04-12 204108](https://user-images.githubusercontent.com/115066186/231476476-5eda4634-3c0a-49df-bca8-5e9dd7040cfa.png)
+![Screenshot 2023-04-12 204156](https://user-images.githubusercontent.com/115066186/231476509-6bdb7701-3e48-4215-9c1c-1508f15c2911.png)
+
+![Screenshot 2023-04-12 204212](https://user-images.githubusercontent.com/115066186/231476524-a4d05c5d-0515-42ca-8d08-7f0e93d653d9.png)
+![Screenshot 2023-04-12 204139](https://user-images.githubusercontent.com/115066186/231476544-d44c18d6-9224-471b-86a5-fa4e7088eb39.png)
+
+
