@@ -141,3 +141,18 @@ __หมายเหตุ__
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
+![Screenshot 2023-04-12 202511](https://user-images.githubusercontent.com/115066186/231474547-c9c5ea58-79df-407d-9aa2-1cc879fdac85.png)
+![Screenshot 2023-04-12 202544](https://user-images.githubusercontent.com/115066186/231474560-615d46e4-673a-4816-ad1f-2691218fce2d.png)
+![Screenshot 2023-04-12 202710](https://user-images.githubusercontent.com/115066186/231474567-d6e21140-2c1b-4b9a-9f56-6d4d301b6419.png)
+![Screenshot 2023-04-12 202735](https://user-images.githubusercontent.com/115066186/231474570-b6edddd3-c78f-41f8-8d8d-284141bba216.png)
+![Screenshot 2023-04-12 202810](https://user-images.githubusercontent.com/115066186/231474574-474820f8-c857-4020-a08d-889702c3a70d.png)
+![Screenshot 2023-04-12 202827](https://user-images.githubusercontent.com/115066186/231474578-1d943a0a-4792-466a-b6c6-3506a0232349.png)
+![Screenshot 2023-04-12 202858](https://user-images.githubusercontent.com/115066186/231474583-be1afaf7-38e0-453e-be62-21e0d8f431e2.png)
+![Screenshot 2023-04-12 202920](https://user-images.githubusercontent.com/115066186/231474589-07fe9f51-1cd6-46f7-9708-1ce3ab167dc7.png)
+![Screenshot 2023-04-12 203330](https://user-images.githubusercontent.com/115066186/231474592-8724a8a0-19c9-42d7-94b2-04406234620e.png)
+![Screenshot 2023-04-12 203338](https://user-images.githubusercontent.com/115066186/231474596-ddd6cc2b-4a3e-4fad-96c5-4b597f4614a8.png)
+![Screenshot 2023-04-12 203349](https://user-images.githubusercontent.com/115066186/231474600-eafd2703-7c04-4538-8a44-be9943a7eb34.png)
+![Screenshot 2023-04-12 203400](https://user-images.githubusercontent.com/115066186/231474601-d7c02905-0bf7-4f08-be6a-67ca28a8f523.png)
+![Screenshot 2023-04-12 203411](https://user-images.githubusercontent.com/115066186/231474607-24ce0a4c-6dea-4b08-bf1f-eeae03b51f18.png)
+![Screenshot 2023-04-12 203420](https://user-images.githubusercontent.com/115066186/231474612-5aa9fb06-85fa-497a-ad21-0261f788fc0e.png)
+![Screenshot 2023-04-12 203431](https://user-images.githubusercontent.com/115066186/231474618-a808c9c6-8d6b-46d8-a361-2d0e82613287.png)
