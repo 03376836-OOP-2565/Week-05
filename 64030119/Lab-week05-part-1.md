@@ -140,4 +140,35 @@ __หมายเหตุ__
 ## แบบฝึกหัด ##
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
-
+1. sbyte
+![image](https://user-images.githubusercontent.com/115066285/232205507-0e373465-22f7-40f2-a5f9-6209692e5b0b.png)
+2. byte
+![image](https://user-images.githubusercontent.com/115066285/232205565-0de7ff31-7d07-4688-9c00-b50fd3ecda9c.png)
+3. short
+![image](https://user-images.githubusercontent.com/115066285/232205627-0905e90c-322b-4516-8e00-0c0c847a70b6.png)
+4. ushort
+![image](https://user-images.githubusercontent.com/115066285/232205656-9c28374f-5569-413c-823c-d681b609b8ea.png)
+5. int
+![image](https://user-images.githubusercontent.com/115066285/232206169-15a538e3-f1c6-477c-82cd-4dcb111960c0.png)
+6. uint
+![image](https://user-images.githubusercontent.com/115066285/232206335-160fad2b-0c8c-4296-b964-b743055ea169.png)
+7. long
+![image](https://user-images.githubusercontent.com/115066285/232206367-a9547689-d48d-453d-9dd6-d05cdfe08f0c.png)
+8. ulong
+![image](https://user-images.githubusercontent.com/115066285/232206398-f7af7faa-f4ef-4d95-abc8-689d701c5822.png)
+9. float
+![image](https://user-images.githubusercontent.com/115066285/232207435-50328556-4cc9-46a5-b182-95912c00ebd1.png)
+10. double
+![image](https://user-images.githubusercontent.com/115066285/232207687-8a373503-120d-4ac7-8ed4-6978009e3947.png)
+11. bool
+![image](https://user-images.githubusercontent.com/115066285/232207834-10ec2908-89f8-4521-a03c-4f28c16504e0.png)
+12. char
+![image](https://user-images.githubusercontent.com/115066285/232208489-1bba92c2-b7bd-430c-9c41-89917baf24ff.png)
+13. decimal
+![image](https://user-images.githubusercontent.com/115066285/232213275-9a7c906e-ad97-4851-8825-70b0be3014a7.png)
+14. object
+![image](https://user-images.githubusercontent.com/115066285/232214269-44515372-ecc6-4b0f-b138-7fd2febf30b9.png)
+15. string
+![image](https://user-images.githubusercontent.com/115066285/232216848-461b5ee6-9c01-4c26-8a19-990f45dcbbac.png)
+16. dynamic
+none
