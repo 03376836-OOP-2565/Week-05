@@ -47,6 +47,7 @@ Console.WriteLine("=============================================================
 ```
 
 ![](./Pictures/Lab5_2_Pic1.png)
+
 sbyte sb = new sbyte();
 byte bt = new byte();
 short sh = new short();
