@@ -168,45 +168,23 @@ __หมายเหตุ__
 ![image](https://user-images.githubusercontent.com/115066359/232305455-71d43187-3a22-4539-8a06-c74573a2d214.png)
 
 10. double
+![image](https://user-images.githubusercontent.com/115066359/232309053-91847439-4c1e-43d8-8210-9d6613435873.png)
 
 11. bool
+![image](https://user-images.githubusercontent.com/115066359/232309126-9271dc2f-d1ad-4a5e-ab05-d06a7a3b45cd.png)
 
 12. char
+![image](https://user-images.githubusercontent.com/115066359/232309565-b9c6db95-adea-4b0a-968f-c2be8936962f.png)
 
 13. decimal
+![image](https://user-images.githubusercontent.com/115066359/232312523-2cdd6505-d874-4daa-8a9e-26a2f6227701.png)
 
 14. object
+![image](https://user-images.githubusercontent.com/115066359/232312653-7e7343a3-7b12-44a3-be25-f3aafa14d8dc.png)
 
 15. string
+![image](https://user-images.githubusercontent.com/115066359/232315121-0ceb8470-58cb-43cf-b06e-46f4f9af2191.png)
 
 16. dynamic
 none
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
