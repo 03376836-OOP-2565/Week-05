@@ -140,4 +140,46 @@ __หมายเหตุ__
 ## แบบฝึกหัด ##
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
+1.sbyte
+![image](https://user-images.githubusercontent.com/116150897/232852965-723ecd3b-e815-41b7-b561-6e363deb1873.png)
+
+2.byte
+![image](https://user-images.githubusercontent.com/116150897/232853577-842e99ba-888d-4f43-82b7-6059194225ef.png)
+
+3.short
+![image](https://user-images.githubusercontent.com/116150897/232853858-bc36dab3-76fd-44dc-8d1b-c1a8765f6f59.png)
+
+4.ushort
+![image](https://user-images.githubusercontent.com/116150897/232854124-c07623fd-72d5-44ad-9078-073bfbdb45ba.png)
+
+5.int
+![image](https://user-images.githubusercontent.com/116150897/232854368-656729fa-9d0d-4704-b2de-606c855cf35c.png)
+
+6.uint
+![image](https://user-images.githubusercontent.com/116150897/232854591-6ce822c1-bba4-4c48-aac3-a552626d1ac2.png)
+
+7.long
+![image](https://user-images.githubusercontent.com/116150897/232854845-b0489e2b-17bf-4c4e-b429-81fece68469e.png)
+
+8.ulong
+![image](https://user-images.githubusercontent.com/116150897/232855228-4d09e433-292a-42f2-a084-ab3c71c1a559.png)
+
+9.float
+![image](https://user-images.githubusercontent.com/116150897/232856306-4af23305-5d55-4bd2-bdd6-db033321a7b0.png)
+
+10. double
+
+11. bool
+
+12. char
+
+13. decimal
+
+14. object
+
+15. string
+
+16. dynamic none
+
+
 
