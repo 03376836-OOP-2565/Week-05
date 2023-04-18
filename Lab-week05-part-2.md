@@ -45,5 +45,10 @@ Console.WriteLine($"string st\t{st.GetType()}\t{st.GetTypeCode()} ");
 Console.WriteLine("============================================================================");
 
 ```
+![image](https://user-images.githubusercontent.com/116150897/232857875-b5f2d5c9-6f0f-48d2-8a70-3887a067f3b5.png)
+
+
+![image](https://user-images.githubusercontent.com/116150897/232858165-08120f72-253d-4a2d-9900-382fb37c3ed5.png)
+
 
 ![](./Pictures/Lab5_2_Pic1.png)
