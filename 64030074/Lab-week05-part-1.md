@@ -141,3 +141,369 @@ __หมายเหตุ__
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
+# 1. Byte
+``` puml
+@startuml
+class Byte {
+    + MaxValue : Byte
+    + MinValue : Byte
+    + Parse(...) : Byte
+    + TryParse(...) : bool
+    + CompareTo(...) : int
+    + Equals(...) : bool
+    + GetHashCode() : int
+    + GetTypeCode() : TypeCode
+    + ToString(...) : string
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320301-23987e3b-3605-43de-9431-90873b9276c2.png)
+
+# 2. short (Int16)
+``` puml
+@startuml
+class Int16 {
+    + Maxvalue : Int16
+    + Minvalue : Int16
+    + Parse(...) : Int16
+    + TryParse(...) : bool
+    + CompareTo(...) : int
+    + Equals(...) : bool
+    + GetHashCode() : int
+    + GetTypeCode() : TypeCode
+    + ToString(...) : string
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320315-276833a1-cf97-4fed-b325-63b89283b792.png)
+
+# 3. ushort (UInt16)
+``` puml
+@startuml
+class UInt16 {
+    + Maxvalue : UInt16
+    + Minvalue : UInt16
+    + Parse(...) : UInt16
+    + TryParse(...) : bool
+    + CompareTo(...) : int
+    + Equals(...) : bool
+    + GetHashCode() : int
+    + GetTypeCode() : TypeCode
+    + ToString(...) : string
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320347-317d772c-e015-4d99-8281-59e0b97d1055.png)
+
+# 4. int (Int32)
+``` puml
+@startuml
+class Int32{
+    + Minvalue : Int32
+    + Maxvalue : Int32
+    + Parse(...) : Int32
+    + TryParse(...) : bool
+    + CompareTo(...) : Int32
+    + Equals(...) : bool
+    + GetHashCode() : Int32
+    + GetTypeCode() : TypeCode
+    + ToString(...) : string
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320356-f7fcd0e8-993e-49c7-95d1-8bcbb7265a63.png)
+
+# 5. uint (UInt32)
+``` puml
+@startuml
+class UInt32 {
+    + Maxvalue : UInt32
+    + Minvalue : UInt32
+    + Parse(...) : UInt32
+    + TryParse(...) : bool
+    + CompareTo(...) : int
+    + Equals(...) : bool
+    + GetHashCode() : int
+    + GetTypeCode() : TypeCode
+    + ToString(...) : string
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320368-a984aa0e-7ddf-46ed-b1f8-8fa68b71c510.png)
+
+# 6. long (Int64)
+``` puml
+@startuml
+class Int64 {
+    + Maxvalue : Int64
+    + Minvalue : Int64
+    + Parse(...) : Int64
+    + TryParse(...) : bool
+    + CompareTo(...) : int
+    + Equals(...) : bool
+    + GetHashCode() : int
+    + GetTypeCode() : TypeCode
+    + ToString(...) : string
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320377-8a3326a6-ad9b-49ea-bcfd-297c062ad16f.png)
+
+# 7. ulong (UInt64)
+``` puml
+@startuml
+class Int64 {
+    + Maxvalue : Int64
+    + Minvalue : Int64
+    + Parse(...) : Int64
+    + TryParse(...) : bool
+    + CompareTo(...) : int
+    + Equals(...) : bool
+    + GetHashCode() : int
+    + GetTypeCode() : TypeCode
+    + ToString(...) : string
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320393-c007acfa-c2a8-4ad1-88b9-404c8dd96e45.png)
+
+# 8. float (Single)
+``` puml
+@startuml
+class Single {
+    + MinValue : Single
+    + Epsilon : Single
+    + MaxValue : Single
+    + PositiveInfinity : Single
+    + NegativeInfinity : Single
+    + NaN : Single
+    + IsInfinity(...) : bool
+    + IsNaN(...) : bool
+    + IsNegativeInfinity(...) : bool
+    + IsPositiveInfinity(...) : bool
+    + Parse(...) : Single
+    + TryParse(...) : bool
+    + CompareTo(...) : int
+    + Equals(...) : bool
+    + GetHashCode() : int
+    + GetTypeCode() : TypeCode
+    + ToString(...) : ToString
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320400-e42d64ed-f717-4abc-a562-ab0b984f176a.png)
+
+# 9. double
+``` puml
+@startuml
+class Double {
+    + MinValue : Double
+    + MaxValue : Double
+    + Epsilon : Double
+    + NegativeInfinity : Double
+    + PositiveInfinity : Double
+    + NaN : Double
+    + IsInfinity(...) : bool
+    + IsNaN(...) : bool
+    + IsNegativeInfinity(...) : bool
+    + IsPositiveInfinity(...) : bool
+    + Parse(...) : Double
+    + TryParse(...) : bool
+    + CompareTo(...) : int
+    + Equals(...) : bool
+    + GetHashCode() : int
+    + GetTypeCode() : TypeCode
+    + ToString(...) : ToString
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320412-c1433b22-47dd-49e1-942f-b252bb69552a.png)
+
+# 10. bool
+``` puml
+@startuml
+class Boolean {
+    + TrueString : string
+    + FalseString : string
+    + Parse(...) : Boolean
+    + TryParse(...) : Boolean
+    + CompareTo(...) : int
+    + Equals(...) : Boolean
+    + GetHashCode() : int
+    + GetTypeCode() : TypeCode
+    + ToString(...) : string 
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320419-7a62a540-0dd0-4eac-9c82-5a03856fc36a.png)
+
+# 11. char
+``` puml
+@startuml
+class Char {
+    + MaxValue : Char
+    + MinValue : Char
+    + ConvertFromUtf32(...) : string
+    + ConvertToUtf32(...) : int
+    + GetNumericValue(...) : double
+    + GetUnicodeCategory(...) : UnicodeCategory
+    + IsControl(...) : bool
+    + IsDigit(...) : bool
+    + IsHighSurrogate(...) : bool
+    + IsLetter(...) : bool
+    + IsLetterOrDigit(...) : bool
+    + IsLower(...) : bool
+    + IsLowSurrogate(...) : bool
+    + IsNumber(...) : bool
+    + IsPunctuation(...) : bool
+    + IsSeparator(...) : bool
+    + IsSurrogate(...) : bool
+    + IsSurrogatePair(...) : bool
+    + IsSymbol(...) : bool
+    + IsUpper(...) : bool
+    + IsWhiteSpace(...) : bool
+    + Parse(...) : Char
+    + ToLower(...) : Char
+    + ToLowerInvariant(...) : Char
+    + ToString(...) : string
+    + ToUpper(...) : Char
+    + ToUpperInvariant(...) : Char
+    + TryParse(...) : bool
+    + CompareTo(...) : int
+    + Equals(...) : bool
+    + GetHashCode() : int
+    + GetTypeCode() : TypeCode
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320430-3b74d308-689e-46a5-b97c-134ce761d981.png)
+
+# 12. decimal
+``` puml
+@startuml
+class Decimal {
+    + Zero : Decimal
+    + One : Decimal
+    + MinusOne : Decimal
+    + MaxValue : Decimal
+    + MaxValue : Decimal
+    + int[] bits : Decimal
+    + float value : Decimal
+    + ulong value : Decimal
+    + double value : Decimal
+    + uint value : Decimal
+    + int value : Decimal
+    + int lo, int mid, int hi, bool isNegative, byte scale : Decimal
+    + Add(...) : Decimal
+    + Ceiling(...) : Decimal
+    + Ceiling(...) : Decimal
+    + Compare(...) : int
+    + Divide(...) : Decimal
+    + Equals(...) : bool
+    + Floor(...) : Decimal
+    + FromOACurrency(...) : Decimal
+    + GetBits(...) : int[]
+    + Multiply(...) : Decimal
+    + Negate(...) : Decimal
+    + Parse(...) : Decimal
+    + Remainder(...) : Decimal
+    + Round(...) : Decimal
+    + Subtract(...) : Decimal
+    + ToByte(...) : byte
+    + ToDouble(...) : double
+    + ToInt16(...) : short
+    + ToInt32(...) : int
+    + ToInt64(...) : long
+    + ToOACurrency(...) : long
+    + ToSByte(...) : sbyte
+    + ToSingle(...) : float
+    + ToUInt16(...) : ushort
+    + ToUInt32(...) : uint
+    + ToUInt64(...) : ulong
+    + Truncate(...) : Decimal
+    + TryParse(...) : bool
+    + CompareTo(...) : int
+    + Equals(...) : bool
+    + GetHashCode() : int
+    + GetTypeCode() : TypeCode
+    + ToString(...) : string
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320440-d68cd6ad-4308-42ad-92ba-3cafb03414ee.png)
+
+# 13. Object
+``` puml
+@startuml
+class Object {
+    + Object
+    + Equals(...) : bool
+    + ReferenceEquals(...) : bool
+    + GetHashCode() : int
+    + GetType() : Type
+    + ToString() : string
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320442-a74a2c02-21b2-42d8-82a1-227046d95da7.png)
+
+# 14. string
+``` puml
+@startuml
+class String {
+    + Empty : String
+    + char[] value : String
+    + sbyte* value : String
+    + char* value : String
+    + char c, int count : String
+    + char[] value, int startIndex, int length : String
+    + sbyte* value, int startIndex, int length : String
+    + char* value, int startIndex, int length : String
+    + sbyte* value, int startIndex, int length, Encoding enc : String
+    + Length : int
+    + Compare(...) : int
+    + CompareOrdinal(...) : int
+    + Concat(...) : String
+    + Copy(...) : String
+    + Equals(...) : bool
+    + Format(...) : String
+    + Intern(...) : String
+    + IsInterned(...) : String
+    + IsNullOrEmpty(...) : bool
+    + IsNullOrWhiteSpace(...) : bool
+    + Join(...) : String
+    + Clone() : object
+    + CompareTo(...) : int
+    + Contains(...): bool
+    + CopyTo(...) : void
+    + EndsWith(...) : bool
+    + GetEnumerator() : CharEnumerator
+    + GetHashCode() : int
+    + GetTypeCode() : TypeCode
+    + IndexOf(...) : int
+    + IndexOfAny(...) : int
+    + Insert(...) : String
+    + IsNormalized() : bool
+    + LastIndexOf(...) : int
+    + LastIndexOfAny(...) : int
+    + Normalize() : String
+    + PadLeft(...) : String
+    + PadRight(...)  : String
+    + Remove(...) : String
+    + Replace(...) : String
+    + Split(...) : String[]
+    + StartsWith(...) : bool
+    + Substring(...) : String
+    + ToCharArray(...) : char
+    + ToLower(...) : String
+    + ToLowerInvariant() : String
+    + ToString(...) : String
+    + ToUpper(...) : String
+    + ToUpperInvariant() : String
+    + Trim() : String
+    + TrimEnd(...) : String
+    + TrimStart() : String
+}
+@enduml
+```
+![image](https://user-images.githubusercontent.com/115066414/235320463-496f2faf-22b2-4e9d-aa62-5ee311662fed.png)
