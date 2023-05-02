@@ -140,4 +140,49 @@ __หมายเหตุ__
 ## แบบฝึกหัด ##
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
+1.sbyte
+![image](https://user-images.githubusercontent.com/116150760/235614119-5aa55daf-239f-4e8b-b56d-828aecff2d3f.png)
 
+2.byte
+![image](https://user-images.githubusercontent.com/116150760/235614325-1e7f5dfa-2078-4926-a17f-c53bd0033f25.png)
+
+3.short
+![image](https://user-images.githubusercontent.com/116150760/235614423-326fd8d4-f801-417f-b56f-2dfc01a72dbf.png)
+
+4.ushot
+![image](https://user-images.githubusercontent.com/116150760/235614501-e1d80eb9-92fe-45b6-bdc1-49d5decc3b72.png)
+
+5.int
+![image](https://user-images.githubusercontent.com/116150760/235614701-719dd5a7-d100-47d1-950d-8627c6132e9e.png)
+
+6.unit
+![image](https://user-images.githubusercontent.com/116150760/235614773-ccd9d93c-3c65-41a2-a167-57f1d6168f95.png)
+
+7.long
+![image](https://user-images.githubusercontent.com/116150760/235614841-25c8ec92-16b2-4e84-8194-8e7ae03f4771.png)
+
+8.ulong
+![image](https://user-images.githubusercontent.com/116150760/235614923-a8aa5a16-9a27-45e3-873a-725583ea5b34.png)
+
+9.float
+![image](https://user-images.githubusercontent.com/116150760/235615019-e07da244-544f-4ad1-9d09-a76484a6b53c.png)
+
+10.double
+![image](https://user-images.githubusercontent.com/116150760/235615094-034f51f1-3f5b-4cab-a306-a64b9a504b4e.png)
+
+11.bool
+![image](https://user-images.githubusercontent.com/116150760/235615208-d7fed187-a626-469e-8355-dc8e1afcc6d0.png)
+
+12.char
+![image](https://user-images.githubusercontent.com/116150760/235615301-f6f8b45b-a9d5-4497-a2bd-47e8433f32d9.png)
+
+13.decimal
+![image](https://user-images.githubusercontent.com/116150760/235615614-949ec598-2e53-4464-95d3-230da6e47668.png)
+
+14.object
+![image](https://user-images.githubusercontent.com/116150760/235615699-542e0781-4807-40b1-aea5-9f893b338032.png)
+
+15.string
+![image](https://user-images.githubusercontent.com/116150760/235615763-ca6c397f-c618-4bfd-87f8-053def7bef4e.png)
+
+16.dynamic none
