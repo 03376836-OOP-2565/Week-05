@@ -141,3 +141,35 @@ __หมายเหตุ__
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
+1.sbyte<br>
+![image](https://user-images.githubusercontent.com/115066405/236607842-856671ee-b958-4d34-91d5-967419506d6f.png)
+2.byte<br>
+![image](https://user-images.githubusercontent.com/115066405/236607982-69b43d67-c11c-4c83-95a9-83fbb245007b.png)
+3.short<br>
+![image](https://user-images.githubusercontent.com/115066405/236607990-be4b10c3-ab56-4819-80cb-56e487e5333f.png)
+4.ushort<br>
+![image](https://user-images.githubusercontent.com/115066405/236607999-9a512fe7-68d3-42be-97c7-c6089a8e96e0.png)
+5.int<br>
+![image](https://user-images.githubusercontent.com/115066405/236608002-b43a3f6f-0a6e-4ef8-a4d9-1d85ca62eeba.png)
+6.uint<br>
+![image](https://user-images.githubusercontent.com/115066405/236608014-7c898d26-b953-49fb-9553-7a86d536f76f.png)
+7.long<br>
+![image](https://user-images.githubusercontent.com/115066405/236608017-d5d0b776-5e88-4e9a-b5f6-e8cb8adf87cc.png)
+8.ulong<br>
+![image](https://user-images.githubusercontent.com/115066405/236608022-b386d022-4854-4de4-a692-6ace9cfa779b.png)
+9.float
+![image](https://user-images.githubusercontent.com/115066405/236608027-34ec494c-2819-4757-a8e0-b42fb8f77d6c.png)
+10.double<br>
+![image](https://user-images.githubusercontent.com/115066405/236608036-5201bfed-893d-44a6-a3b0-4b141045e234.png)
+11.bool<br>
+![image](https://user-images.githubusercontent.com/115066405/236608039-00735a96-6aaa-4db7-8133-2f49522a3b1f.png)
+12.char<br>
+![image](https://user-images.githubusercontent.com/115066405/236608045-0dd0fcbf-da6a-4db3-bb40-35ea6daa219d.png)
+13.decimal<br>
+![image](https://user-images.githubusercontent.com/115066405/236608055-29732922-3e94-42eb-8e16-bc0bec39280e.png)
+14.object<br>
+![image](https://user-images.githubusercontent.com/115066405/236608066-ba2eba79-639f-432c-9021-29b131265446.png)
+15.string<br>
+![image](https://user-images.githubusercontent.com/115066405/236608072-55265c21-0b9f-4e48-8906-f5444a388fc9.png)
+16.dynamic<br>
+None
