@@ -140,6 +140,7 @@ __หมายเหตุ__
 ## แบบฝึกหัด ##
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
+
 1.sbyte
 
 ![image](https://github.com/CHAIYAPRUK/Week-05/assets/115066395/81bd56a6-bc7e-43d1-b59b-b4f1e1af5970)
