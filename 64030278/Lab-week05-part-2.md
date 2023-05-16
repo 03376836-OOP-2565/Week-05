@@ -46,8 +46,7 @@ Console.WriteLine("=============================================================
 
 ```
 
-![](./Pictures/Lab5_2_Pic1.png)
-
+![image](https://github.com/Poramat45/Week-05/assets/115066249/79a86534-849d-4f06-b72e-8421e99cbadd)
 ```cs
 sbyte sb = new sbyte();  // create new object
 byte bt = new byte();
@@ -86,4 +85,4 @@ Console.WriteLine($"decimal de\t{de.GetType()}\t{de.GetTypeCode()}\t\t{decimal.M
 
 Console.WriteLine("============================================================================");
 ```
-![](./Pictures/Lab5-2.png)
+![image](https://github.com/Poramat45/Week-05/assets/115066249/5845539e-c925-4b16-8d1e-2c76863d11fa)
