@@ -90,3 +90,5 @@ Console.WriteLine($"dynamic dy\t{dy.GetType()}\t----------\t\t----------");
 
 Console.WriteLine("==================================================================================================================");
 ```
+
+![image](https://github.com/CHAIYAPRUK/Week-05/assets/115066395/c1eb554c-10c3-4cce-8227-710952a10184)
